@@ -1,4 +1,4 @@
-# Turbox Vector Database
+# ⚡Turbox Vector Database
 
 Turbox implements an in-memory Vector Database API using Node.js and Express. It allows users to store, retrieve, manipulate, and search vectors through various HTTP endpoints.
 
