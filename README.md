@@ -31,7 +31,7 @@ Features:
 - Implemented CRUD operations for vectors.
 - Added sorting, addition, filtering, and advanced search functionalities with fast speed.
 
-## Loacl Installation
+## Local Installation
 
 To install and run the Turbox Vector Database locally, follow these steps:
 
