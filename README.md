@@ -4,7 +4,34 @@ Turbox implements an in-memory Vector Database API using Node.js and Express. It
 
 It is built for blazing fast performance, Turbox provides efficient operations on vectors, ensuring rapid data access and manipulation.
 
-## Installation
+## Release Installation
+
+### v1.0.0
+
+### Download the latest release [here](https://github.com/suhasasumukh/turbox/releases/tag/v1.0.0).
+- Click on **server.exe** to download the executable file.
+- When downloaded, run the file. You will see a popup screen stating that the server is running on localhost:3000
+<br>
+
+![image](https://github.com/suhasasumukh/turbox/assets/70210383/45b6f180-0464-4c7a-816d-e72ef3f556bb)
+
+- Once the server is running locally, open **PowerShell** to execute the endpoints
+
+> [!IMPORTANT]
+> Run the endpoints from the same directory where the server.exe is downloaded.
+
+- [Here](https://github.com/suhasasumukh/turbox#vector-endpoints) are the list of endpoints you can run the VDB on.
+
+<br>
+<br>
+
+This release includes the initial implementation of Turbox Vector Database.
+
+Features:
+- Implemented CRUD operations for vectors.
+- Added sorting, addition, filtering, and advanced search functionalities with fast speed.
+
+## Loacl Installation
 
 To install and run the Turbox Vector Database locally, follow these steps:
 
